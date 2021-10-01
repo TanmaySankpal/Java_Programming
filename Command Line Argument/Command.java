@@ -15,3 +15,14 @@ class Command
 		
 	}
 }
+
+//compile -> javac Command.java
+
+//Run -> java Command.java Tanmay 21 Demo 10
+
+//output -> Toatal number of arguments are:4
+//	    Command line arguments are :
+//	    Tanmay 
+//	    21 
+//          Demo 
+//          10
