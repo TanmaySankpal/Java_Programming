@@ -18,4 +18,3 @@ class Addition
 //compile -> javac Addition.java
 //Run -> java Addition.java 21 10
 //output -> Addition:31
-
